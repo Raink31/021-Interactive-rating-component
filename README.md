@@ -1,0 +1,1 @@
+# 020-Interactive-rating-component
