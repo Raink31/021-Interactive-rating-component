@@ -11,10 +11,10 @@ Your challenge is to build out this page and get it looking as close to the desi
 ## Screenshot
 
 ### First Screenshot
-![first screenshot](./assets/images/first.png)
+![first screenshot](./assets/images/first.PNG)
 
 ### Second Screenshot
-![second screenshot](./assets/images/second.png)
+![second screenshot](./assets/images/second.PNG)
 
 
 ## Links
