@@ -20,7 +20,7 @@ Your challenge is to build out this page and get it looking as close to the desi
 ## Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-i086MtnPVN
-- Live Site URL: https://raink31.github.io/020-Interactive-rating-component/
+- Live Site URL: https://raink31.github.io/021-Interactive-rating-component/
 
 
 ## Built with
