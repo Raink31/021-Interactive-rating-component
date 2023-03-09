@@ -48,7 +48,7 @@ main{
     max-width: 390px;
     width: 90%;
     height: 370px;
-    border-radius: 15px;
+    border-radius: 25px;
     color: white;
     display: flex;
     flex-direction: column;
@@ -133,6 +133,7 @@ li input:checked ~ .rate-btn{
     padding: .8rem 0;
     border-radius: 20px;
     transition: all .3s;
+    min-height: 43px;
 }
 
 #submit:hover{
